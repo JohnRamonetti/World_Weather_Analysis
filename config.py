@@ -1,4 +1,5 @@
-weather_api_keys="53b2e43fa54945add96c1cc3ac2f0408"
+weather_api_key = "9348f007743e7982447af8791acf88f9"
+
 
 # Google API Key
-g_key = AIzaSyCEpqDWnOgY9n47T6qpH5p5wOU-Qkt3kfk
+#g_key = 
